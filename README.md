@@ -1,7 +1,7 @@
-##Online Food Ordering System
+# Online Food Ordering System
 This is an online food ordering system that allows users to browse and order various food items from local restaurants and hotels. The system is accessible through a smartphone application, providing a convenient and user-friendly experience. It also includes separate portals for administrators, users, restaurants, and riders, each with specific functionalities and roles.
 
-Objectives
+## Objectives
 The main objectives of the online food ordering system are as follows:
 
 View Food Catalogue: Users can browse and search for food items from a wide range of restaurants available on the platform.
@@ -14,7 +14,7 @@ Delivery Status Tracking: Customers can check the status of their orders and tra
 
 Information Management: The system effectively manages all the information related to food items, delivery addresses, and the order cart.
 
-Modules
+## Modules
 The online food ordering system consists of the following modules:
 
 Admin Portal: This portal is accessible by administrators who can log in using their credentials. Administrators have the authority to approve restaurant requests, add restaurants to the platform, and remove underperforming restaurants.
@@ -25,7 +25,7 @@ Restaurant Portal: Restaurants can request the administrator to add their establ
 
 Rider Portal: Riders can register using their credentials, including email, mobile number, and government ID. The rider portal provides riders with a view of the orders placed by customers. They can then deliver the orders by following the provided delivery addresses.
 
-Tools and Platforms
+## Tools and Platforms
 The online food ordering system is developed using the following technologies:
 
 Language: Dart
