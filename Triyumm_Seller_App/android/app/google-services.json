@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967509594887",
+    "project_id": "triyum-clone-app",
+    "storage_bucket": "triyum-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967509594887:android:d408acadec8968a9972ba2",
+        "android_client_info": {
+          "package_name": "com.tanzeelamansoor.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967509594887-ib6o2uv6am49hmd2idsonfp92jcts45q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQ2KRYTsLhj1ZRmZ4TqmNfLzyo8Yygko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967509594887-ib6o2uv6am49hmd2idsonfp92jcts45q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
